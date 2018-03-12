@@ -1,3 +1,3 @@
 ## ACM_POJ
-### I've inputed all the POJ AC codes by now into this repository called ACM_POJ.
-### 我已经把到目前为止所有通过的POJ代码上传到这个仓库中。
+### I've uploaded the accepted C++ codes into ACM_POJ. Link: http://poj.org/
+### 我已经把测试通过的C++代码上传到这个仓库中。链接：http://poj.org/
